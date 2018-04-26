@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "16984527234",
+    "firebase_url": "https://foodorder-eb602.firebaseio.com",
+    "project_id": "foodorder-eb602",
+    "storage_bucket": "foodorder-eb602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16984527234:android:61673c53c689b5cf",
+        "android_client_info": {
+          "package_name": "com.kurobarabenjamingeorge.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16984527234-on9l0j40gl9f8lgq6d4gscr2tp8j2dr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kurobarabenjamingeorge.foodorder",
+            "certificate_hash": "84ff2fcb99ecfe28c833c32c835a91caf8aab8be"
+          }
+        },
+        {
+          "client_id": "16984527234-12vnj9vmghf36u42b1r7cfnmprk6k5qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuGj-81A2Va6kOp7-5YupyuHJaqtvWpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16984527234-12vnj9vmghf36u42b1r7cfnmprk6k5qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16984527234:android:9e19494d1e6ff2d5",
+        "android_client_info": {
+          "package_name": "com.kurobarabenjamingeorge.foodisready"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16984527234-aa81uahj5a6t9rk9jo756adk0ig4amkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kurobarabenjamingeorge.foodisready",
+            "certificate_hash": "84ff2fcb99ecfe28c833c32c835a91caf8aab8be"
+          }
+        },
+        {
+          "client_id": "16984527234-12vnj9vmghf36u42b1r7cfnmprk6k5qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuGj-81A2Va6kOp7-5YupyuHJaqtvWpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16984527234-12vnj9vmghf36u42b1r7cfnmprk6k5qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
